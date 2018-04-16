@@ -1,0 +1,10 @@
+1. 什么时候只调onPause不调用onStop。
+2. PMS安装应用的过程。
+3. Handler POST Runnable delay的实现原理。
+4. touch的传递。
+5. HOTFIX方案。
+6. Binder 限制的1M是单次还是总共。
+7. ContentProvider的Cursor是通过binder来传吗?
+8. IntentService与service的区别？
+9. 多个ContentResolver同时query时怎么个情况？
+10. multiProcess是干什么用的？

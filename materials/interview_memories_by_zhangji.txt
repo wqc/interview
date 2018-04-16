@@ -1,0 +1,16 @@
+今日头条，部分面试题
+
+1》单例模式  枚举与双重检验锁。
+2》二分查找，快速排序。
+3》什么时候只调onPause不调用onStop。
+4》PMS安装应用的过程。
+5》Handler POST Runnable delay的实现原理。
+6》touch的传递。
+7》HOTFIX方案。
+8》Binder 限制的1M是单次还是总共。
+9》ContentProvider的Cursor是通过binder来传吗?
+10》IntentService与service的区别？
+11》多个ContentResolver同时query时怎么个情况？
+12》multiProcess是干什么用的？
+13》Java IO流的设计模式，装饰模式与适配器模式。
+
